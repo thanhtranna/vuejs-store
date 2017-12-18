@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ### Project: Vue.js Shopping Cart
 
 #### Pre-installation
